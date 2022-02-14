@@ -1,5 +1,6 @@
 # CS 411: Artificial Intelligence I
 ## Project 1: Sudoku
+#### by Rishi Advani and Gyeongeun Lee
 
 ### initialize_domains()
 Initialize domains for all cells to be used in consistency checking. Return domains and domain sizes.
